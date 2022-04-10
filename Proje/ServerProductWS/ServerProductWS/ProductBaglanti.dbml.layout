@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ProductBaglanti">
+  <DataContextMoniker Name="/ProductBaglantiDataContext" />
+  <nestedChildShapes>
+    <classShape Id="16ed69fa-33ef-4e0f-baa5-ba5c8313ace5" absoluteBounds="0.5, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ProductBaglantiDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e610eb00-8341-4804-9ac2-e178b5afffbb" absoluteBounds="0.515, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

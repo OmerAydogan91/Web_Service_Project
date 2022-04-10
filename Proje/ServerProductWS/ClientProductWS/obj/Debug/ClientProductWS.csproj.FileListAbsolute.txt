@@ -1,0 +1,10 @@
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\bin\Debug\ClientProductWS.exe.config
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\bin\Debug\ClientProductWS.exe
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\bin\Debug\ClientProductWS.pdb
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.csprojAssemblyReference.cache
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.Form1.resources
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.Properties.Resources.resources
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.csproj.GenerateResource.cache
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.csproj.CoreCompileInputs.cache
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.exe
+C:\Users\MrCode\source\repos\WebServisOrnekleri\ServerProductWS\ClientProductWS\obj\Debug\ClientProductWS.pdb
